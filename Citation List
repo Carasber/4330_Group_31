@@ -1,0 +1,178 @@
+----->++In complience of Citation Requierments++<-----
+
+
+"Use of Artificial Intelligence (Ai) Tools 
+
+Within this course, you are welcome to use generative artificial intelligence (Ai) models (ChatGPT, GitHub Copilot, and anything
+after) with acknowledgment. However, you should note that all large language models have a tendency to make up incorrect facts
+produce non-functional code and fake citations, they may perpetuate biases, and image generation models can occasionally come up
+with offensive products. You will be responsible for any inaccurate, biased, offensive, or otherwise unethical content you
+submit regardless of whether it originally comes from you or an Ai model.
+
+If you use an Ai model, its contribution must be cited and discussed:
+• What was your prompt?
+• Did you revise the Ai model’s original output for your submission?
+• Did you ask follow-up questions?
+• What did you learn?
+
+Having said all these disclaimers, the use of Ai models is encouraged, as it may make it possible for you to submit assignments
+and your work in the field with higher quality and in less time"
+
+
+
++++++ Upload Picture Section +++++
+
+• What was your prompt?
+
+    This was the prompt that was provided-
+
+    ex:"write a code on adding an upload a photo upload function into a vuejs file."
+
+• Did you revise the Ai model’s original output for your submission?
+
+    Yes, there were many issues with the original output of the AI. It seems like AI tools are not perfect.
+    The following prompt was used as 'Revision' on chatGPT side. And there was revision on our side while
+    trouble shooting in order to get it to function properly. Espcially when getting to know Vue.
+
+    ex:"how do I import the component vue if the other vue is in another folder called components?"
+
+• Did you ask follow-up questions?
+
+    Yes, there were many follow-up questions as they either produce the same output or produced an output that was 
+    'suffient' for what is required for the project. Ther follow-up question that is shown was able to output a code
+    that was 'suffient' enough. More troubleshooting and fixing errors on our side was required in order to fix the 
+    upload section. These follow-up questions (little by little) helped us on creating the upload button.
+
+    ex:"How to include a clear image button"
+
+• What did you learn?
+
+    We learned many things, espcially working with AI tools. Given that this was the first requierment there was some 
+    difficulty working with AI tools. It shows that AI tools are not without flaws as well as actully causing more trouble
+    than help at times. On rare occasion it will give a 'negative' impact, so using information from other sources were 
+    also useful. We also learned about file directory and how they effect the front-end since we are working with the upload
+    buttton. Being able to fix the errors that AI does, has made us (as a team) better as looking at flaws as well.
+
+
+
++++++ Confirmation Dialog (Non-Component) +++++
+
+• What was your prompt?
+
+    This was the prompt that was provided-
+
+    ex:"write a code that creates a dialog popup confirmation box to delete an event using this code on vue3."
+
+• Did you revise the Ai model’s original output for your submission?
+
+    Yes, there was alot of revision, it was difficult getting components to work at first (Vue was new at the time). 
+    So we decided to do a non-component version and to hard-code it. There were many issues regarding this at first 
+    but once we got it to work there were less isuess and we became more confident in our ability to work on thhe front-end.
+    Being able to do this gave us the ability to be more confident in our work and to later implement it as a a component, this 
+    was not needed as a requierment but have the ability to have function properly then later put as a component made the
+    transition easier as well as giving us a more 'grounded' level on our understanding of Vue and Front-end. The revision would 
+    later make the foundation for the components of the dialog box.
+
+    ex:"Why does this code not work when clicking on the delete button? Only when clicking on the update button does the
+    confirmation box show up."
+
+• Did you ask follow-up questions?
+
+    Yes, there were some issues relating to this as it was hard-coded and did not used components so we asked ways on how this
+    would react compareto components. We wanted to ask this as we will later be asking how to create a dialog box that will 
+    feature components. The follow-up questions were mostly clarifications as well as hard-coding a abit in order to get the 
+    confirmation deletion box to work. There were also research outside of using ChatGPT for this occausion.
+
+    ex: "How does this differ from components"
+
+• What did you learn?
+
+    There were many things that we learned, the biggest was the impact of Vue as a component compared to not having component. 
+    It did give as idea on how we would like to work with components. Although, components were not implemented yet, the many 
+    clarifications and extra research that was provided as well as 'practice' using Chat GBT and hard coding as been extremly 
+    useful. Using ChatGPT for research and not just asking for code is extremly useful and a skill that most likely be carried 
+    into the future. 
+
+
+
++++++ Confirmation Dialog (Component) +++++
+
+• What was your prompt?
+
+    This was the prompt that was provided-
+
+    ex:"Create a vue component dialog box for a delete confirmation button."
+
+• Did you revise the Ai model’s original output for your submission?
+
+    Yes, technically this is a revision of an early form of the confirmation dialog. This is using components for the dialog box 
+    and many revision had to be done. It was extremly helpful on our first try on create a dialog box, however this one would be 
+    different and would requiere way more revisions and trouble shooting as the errors would occur between routes. The routing 
+    caused many issues on using components to create the dialog box. There was a need to keep asking clarifying questions and 
+    many follow up question to revise the output that was provided. The use of routing was the biggest issues that occurd.
+
+    ex:"When clicking on the delete button, the dialog box does not pop up why might that be the case?"
+
+• Did you ask follow-up questions?
+
+    Yes, we asked many follow-up questions. The two main ones being 'ways on getting the code to work correctly' (not a prompt) 
+    and on how 'components were affecting the fron-end' (also not a promp). After doing futher research, we found out that there 
+    was an issue regarding the routing. There were alot of issues with routing since the dialog box works way different when 
+    using components.
+
+    ex:"How to properly call and import/export components into views while using router"
+
+• What did you learn?
+
+    We learned how components have an impact on the front-end. Especially, when working with routing in the front-end. There was 
+    alot of confusion on how being able to move between pages and how pages affected each other. Being able to use components as 
+    definetly gave us a better understanding on how to use routing to our advantage.
+
+
+
+The following also helped to fixed the issues caused by AI and by trouble shooting
+(Note:This is not AI so most will just be URLs)
+
+
+• Youtube Section:
+
+    https://www.youtube.com/watch?v=VqnJwh6E9ak
+    https://www.youtube.com/watch?v=-gnDnjv6PEU
+    https://www.youtube.com/watch?v=9g_NM0Q4Ip8
+    https://www.youtube.com/watch?v=juocv4AtrHo
+    https://www.youtube.com/watch?v=UCI9dO4Vxvk
+    https://www.youtube.com/watch?v=W6qpsmkuJ8c
+    https://www.youtube.com/watch?v=T_nHhytGqk4
+    https://www.youtube.com/watch?v=HorXomQrOi8
+    https://www.youtube.com/watch?v=NFdvWBh-D6k
+
+• StackOverflow Section:
+
+    https://stackoverflow.com/questions/47650154/how-do-i-upload-image-in-vuejs
+    https://stackoverflow.com/questions/48155762/how-to-import-vue-js-component-from-external-file
+    https://stackoverflow.com/questions/61624273/import-component-from-different-folder-vue-js
+    https://stackoverflow.com/questions/50607228/where-to-import-component-in-vue
+    https://stackoverflow.com/questions/66611082/delete-reset-a-displayed-picture-from-vue-js
+    https://stackoverflow.com/questions/59658463/how-to-reset-clear-file-input
+    https://stackoverflow.com/questions/50094129/vuejs-show-confirmation-dialog-before-route-change
+    https://stackoverflow.com/questions/54156534/how-to-create-alert-confirm-box-in-vue
+    https://stackoverflow.com/questions/61231630/vue-why-is-my-dialog-not-showing-up-when-the-right-condition-is-set
+    https://stackoverflow.com/questions/44788190/vue-js-how-to-import-route-components-from-external-files
+    https://stackoverflow.com/questions/50607228/where-to-import-component-in-vue
+    https://stackoverflow.com/questions/62427362/vue-pass-components-to-router-view-on-dynamically-loaded-component
+    https://stackoverflow.com/questions/50448943/how-do-i-get-router-view-to-render-components-inside-another-component
+    
+• Official Vue Documents:
+
+    https://vuejs.org/guide/introduction.html
+    https://vueuse.org/core/useConfirmDialog/
+    https://v3.router.vuejs.org/guide/essentials/named-routes.html
+
+• 'Other' Section:
+
+    https://www.digitalocean.com/community/tutorials/vuejs-uploading-vue-picture-input
+    https://www.tutorialsplane.com/vue-js-display-image/
+    https://stackabuse.com/how-to-create-a-confirmation-dialogue-in-vue-js/
+    https://dev.to/garmideroman/the-simplest-way-to-deal-with-modal-dialogs-in-vue-3-59hl
+    https://www.vuescript.com/confirmation-dialog-snackbar/
+    https://thewebdev.info/2020/09/07/add-a-dialog-box-to-a-vue-app-with-the-vue-js-modal-library/
